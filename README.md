@@ -1,10 +1,4 @@
 # RL assessment
 
-## How to run
-1. Clone the repository
-
-2. Install the requirements
-
-```bash
-pip install -r requirements.txt
-
+## Method
+The method used to solve the problem is the SARSA algorithm.
